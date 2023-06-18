@@ -1,11 +1,11 @@
-About r-turfr
-=============
+About r-turfr-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-turfr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=turfR
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-turfr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Package for analyzing TURF (Total Unduplicated Reach and Frequency) data in R. No looping in TURF algorithm results in fast processing times. Allows for individual-level weights, depth specification, and user-truncated combination set(s). Allows user to substitute Monte Carlo simulated combination set(s) after set(s) exceed a user-specified limit.
 
